@@ -11,6 +11,8 @@ without most of what makes Canabalt awesome. So if you don't like it,
 please don't judge a book by its tiny tiny clone. Go play (and buy!) real
 [Canabalt](http://www.canabalt.com) instead.
 
+Nevertheless, here's a [video of it in action.](https://www.youtube.com/watch?v=_63aN0GHZRk)
+
 This is made on an Arduino Nano 3.0 with an [8x8 LED matrix from Ningbo Flying
 Electronics](http://www.led-display-manufacturers.com/pid125397/104766901.htm).
 
