@@ -19,3 +19,5 @@ row of the matrix, through a 470ohm resistor; a digital output pin to each
 column of the matrix; and a tactile switch (push button) wired up as in
 [this tutorial](http://arduino.cc/en/tutorial/button).
 
+Class project for [05-833 Gadgets](http://www.hcii.cmu.edu/courses/applied-gadgets-sensors-and-activity-recognition-hci)
+taught by Scott Hudson.  

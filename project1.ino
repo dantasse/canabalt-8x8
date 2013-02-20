@@ -26,8 +26,6 @@ const int rowsLen = 8;
 const int cols[] = {pin13, pin3, pin4, pin10, pin6, pin11, pin15, pin16};
 const int colsLen = 8;
 
-// cols = D0 to D7 = all bits of PORTD
-// rows = D8 to D12 and A0 to A2 = first 5 bits of PORTB and 3 bits of PORTC
 const int debugPin = 13;
 
 const int DROP = -1;
